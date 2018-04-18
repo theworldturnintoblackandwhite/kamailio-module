@@ -1,0 +1,2 @@
+# kamailio-module
+sip server
